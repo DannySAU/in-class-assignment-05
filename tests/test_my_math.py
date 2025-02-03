@@ -7,7 +7,9 @@ def test_sum():
     assert res == 2
 
 # Work together
-## Test multiply
+def test_multiply():
+    res = multiply(2,2)
+    assert res == 4
 
 
 # Check for understanding
